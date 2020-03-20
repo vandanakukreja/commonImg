@@ -1,4 +1,4 @@
-# @1dnakukreja/commonImg
+# @@1dnakukreja/common-img
 
 provide images 
 
