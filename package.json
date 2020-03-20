@@ -1,5 +1,8 @@
 {
-	"name": "common-img",
-  	"version": "1.0.0"
+	"name": "@1dnakukreja/common-img",
+  	"version": "1.0.0",
+  	"description":"provide an image",
+  	"repository":"vandanakukreja/commonImg",
+  	"main":"index.js"
 }
 
